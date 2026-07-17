@@ -3,7 +3,7 @@ author: Justin Chow
 pubDatetime: 2025-10-08
 title: The Places We Go
 featured: false
-ogImage:
+ogImage: src/assets/images/the-places-we-go-og.png
 tags:
   - release
 description: Charter a yacht with your friends. It's cheaper than you think.

@@ -3,7 +3,7 @@ author: Justin Chow
 pubDatetime: 2025-04-21
 title: Two Cappuccinos
 featured: false
-ogImage:
+ogImage: src/assets/images/two-cappuccinos-og.png
 tags:
   - release
 description: Rome Sweet Home

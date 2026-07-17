@@ -3,7 +3,7 @@ author: Justin Chow
 pubDatetime: 2026-04-30
 title: Tip Zero. Pass on the Right.
 featured: true
-ogImage:
+ogImage: src/assets/images/tip-zero-pass-on-the-right-og.png
 tags:
   - release
 description: Jeep Wranglers. Do we really need them?
