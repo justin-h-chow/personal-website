@@ -8,6 +8,7 @@ tags:
   - release
 description: Jeep Wranglers. Do we really need them?
 ---
+![Tip Zero Pass on the Right Banner](@/assets/images/tip-zero-pass-on-the-right-og.png)
 ## Tip Zero. Pass on the Right.
 ### Your feelings are the reason marketing departments exist
 
