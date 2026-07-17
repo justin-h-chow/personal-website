@@ -6,8 +6,9 @@ featured: false
 ogImage: "@/assets/images/two-cappuccinos-og.png"
 tags:
   - release
-description: Rome Sweet Home
+description: Rome Sweet Home.
 ---
+![Two Cappuccinos Banner](@/assets/images/two-cappuccinos-og.png)
 ## Two Cappuccinos
 
 "*Due cappuccini. Mille grazie.*" I follow behind with her helmet tucked

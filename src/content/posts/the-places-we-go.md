@@ -8,6 +8,7 @@ tags:
   - release
 description: Charter a yacht with your friends. It's cheaper than you think.
 ---
+![The Places We Go Banner](@/assets/images/the-places-we-go-og.png)
 ## **The Places We Go**
 
 ### Calle de Santo Domingo, Pamplona, July 2023.
