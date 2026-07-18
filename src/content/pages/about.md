@@ -7,7 +7,7 @@ description: About the Author
 
 Credentialed actuary working at the management level in health insurance. Primary role revolves around Medicaid capitation rate advocacy among other quantitative responsibilities. 
 
-[Download my resume (PDF)](public/justin-chow-resume.pdf)
+[Download my resume (PDF)](/justin-chow-resume.pdf)
 
 Beyond professional responsibilities, I have a keen interest in art, history, and psychology. 
 ### Areas of Focus
