@@ -5,8 +5,11 @@ description: About the Author
 
 ![About Banner](@/assets/images/about-banner.jpeg)
 
-Credentialed actuary working at the management level in health insurance. Primary role revolves around Medicaid capitation rate advocacy among other quantitative responsibilities. Beyond professional responsibilities, I have a keen interest in art, history, and psychology. 
+Credentialed actuary working at the management level in health insurance. Primary role revolves around Medicaid capitation rate advocacy among other quantitative responsibilities. 
 
+[Download my resume (PDF)](public/justin-chow-resume.pdf)
+
+Beyond professional responsibilities, I have a keen interest in art, history, and psychology. 
 ### Areas of Focus
 * **Professional Development:** Actuarial science, stochastic forecasting, and talent development.
 * **Writing:** Observational humor with an analytical bent.
