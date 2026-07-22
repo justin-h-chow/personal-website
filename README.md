@@ -20,7 +20,7 @@ Inside of AstroPaper, the directory is organized:
 ├── public/
 │   ├── pagefind/          # auto-generated on build
 │   ├── favicon.svg
-│   └── default-og.jpg
+│   └── default-og.jpeg
 ├── src/
 │   ├── assets/
 │   │   ├── icons/
